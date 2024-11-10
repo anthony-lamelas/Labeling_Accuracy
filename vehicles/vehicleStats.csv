@@ -1,0 +1,7 @@
+category,fraction,average_dot_product,variance,second_best_category
+vehicle with more than four wheels,0.1763586956521739,0.24081625,0.00037968287,vehicle with four wheels
+vehicle with two wheels,0.27309782608695654,0.25347567,0.0005395994,vehicle with one wheel
+vehicle with one wheel,0.2548913043478261,0.2311885,0.00078568124,vehicle with four wheels
+vehicle with four wheels,0.15244565217391304,0.2462286,0.00046295873,vehicle with more than four wheels
+vehicle with three wheels,0.11630434782608695,0.24416515,0.00051469,vehicle with four wheels
+vehicle with no wheels,0.02690217391304348,0.250463,0.00050467195,vehicle with four wheels

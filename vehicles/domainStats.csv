@@ -1,0 +1,4 @@
+category,fraction,average_dot_product,variance,second_best_category
+land vehicle,0.5105978260869565,0.2442802,0.0003954089,water vehicle
+air vehicle,0.23858695652173914,0.2406373,0.00038944234,land vehicle
+water vehicle,0.25081521739130436,0.2599183,0.0004998245,land vehicle

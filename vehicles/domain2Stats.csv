@@ -1,0 +1,4 @@
+category,fraction,average_dot_product,variance,second_best_category
+landborne vehicle,0.6543478260869565,0.24516152,0.0002969064,aquatic vehicle
+aquatic vehicle,0.22119565217391304,0.25544494,0.0004288629,landborne vehicle
+airborne vehicle,0.12445652173913044,0.24382772,0.00033383182,landborne vehicle
