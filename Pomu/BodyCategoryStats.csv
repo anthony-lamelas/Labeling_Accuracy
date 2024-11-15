@@ -1,0 +1,4 @@
+category,fraction,average_dot_product,variance,second_best_category
+upper-body clothes,0.3104944524926615,0.2571109,0.00021021257,full-body clothes
+full-body clothes,0.5352955616483824,0.25601828,0.00016041505,lower-body clothes
+lower-body clothes,0.15420998585895604,0.25906548,0.00021197135,upper-body clothes

@@ -1,0 +1,4 @@
+category,fraction,average_dot_product,variance,second_best_category
+Casual Clothing,0.16198583129630847,0.24983531,0.0001231985,Utility/Athletic Clothing
+Utility/Athletic Clothing,0.4014154873819707,0.25788435,0.00018136486,Casual Clothing
+Formal Clothing,0.43659868132172086,0.2523522,0.00012234002,Utility/Athletic Clothing
